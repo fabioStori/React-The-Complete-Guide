@@ -1,4 +1,4 @@
-import Todo from "./components/Todo";
+import Todo from "components/Todo";
 
 //jsx code - html code in js
 function App() {
